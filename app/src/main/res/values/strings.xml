@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App name -->
+    <string name="app_name">Volume Raiser For Sport 5</string>
+
+    <!-- Content description for the background image -->
+    <string name="background_image_desc">Background image of the app</string>
+
+    <!-- Additional string resources can go here -->
+    <string name="welcome_message">Welcome to the Volume Control App</string>
+    <string name="button_label">Press to Adjust Volume</string>
+</resources>
