@@ -1,5 +1,3 @@
-I've made this app for Israel's Sports channel - Sport 5.
-
 # Android-TV-Volume-Raiser
 A simple app made with Kotlin to keep AndroidTV from turning off every 3 hours.
 
@@ -22,11 +20,11 @@ type .\adb install [/path/to/file.apk]
 after installation is completed go to your device
 Settings
 Apps
-Volume Raiser For Sport 5
+Volume Raiser
 open
 
 and you can then minimize the app while keeping it open in the background and never worry about your tv auto sleep again :)
 
-*This app was buily by Idan Magor for Sport 5 Channel in Israel and is free to use for everyone who wants it
+*Built by Idan Magor. Free to use.
 
 
